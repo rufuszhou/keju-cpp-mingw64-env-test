@@ -1,2 +1,2 @@
-# keju-cpp-mingw64-env-test
-test cpp env on MINGW64 on Windows10
+
+This is to verify MINGW64 development environment is ready or not.
