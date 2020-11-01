@@ -6,7 +6,7 @@ class CApp
 {
 public:
 	CApp(int a) : m_a(a) {}
-	~CApp();
+	~CApp(){}
 
 public:
 	void set(int a) {
