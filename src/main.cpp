@@ -1,5 +1,5 @@
 #include <iostream>
-#include "app.h"
+#include "app.hpp"
 
 int main(int argc, char* argv[]) {
     CApp a(0);
